@@ -1,4 +1,4 @@
 # nodejs-selfbot
 my first discord nodejs selfbot! basic and not that great
 
-![Node.js](https://tenor.com/view/nodejs-gif-5733155338119735691)
+![Node.js](https://tenor.com/gZF4IWl7WNb.gif)
